@@ -1,0 +1,6 @@
+{
+  "name": "BaizEarn",
+  "description": "Complete mobile earning platform in Bengali featuring ৳600 bKash/Nagad/Rocket account verification, task rewards, daily spin, referral system, and full admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
